@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>表格标签</title>
+</head>
+<body>
+    <!-- table标签定义表格 tr标签定义行 td标签定义单元格 th标签定义表头
+    合并单元格：colspan->合并列 rowspan->合并行
+    -->
+
+    <table border="1" width="30%" cellpadding="0" cellspacing="0" bgcolor="#dc143c" align="center">
+        <caption>学生信息</caption>
+        <tr>
+            <th>学号</th>
+            <th>姓名</th>
+            <th>成绩</th>
+        </tr>
+
+        <tr>
+            <td>9</td>
+            <td>苏亚雷斯</td>
+            <td>90</td>
+        </tr>
+
+        <tr>
+            <td>10</td>
+            <td>梅西</td>
+            <td>95</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <table border="2" cellspacing="0" cellpadding="0">
+        <caption>学生信息</caption>
+        <tr>
+            <th rowspan="2">学号</th>
+            <th>姓名</th>
+            <th>成绩</th>
+        </tr>
+
+        <tr>
+            <td>9</td>
+            <td>苏亚雷斯</td>
+            <td>90</td>
+        </tr>
+
+        <tr>
+            <td>10</td>
+            <td>梅西</td>
+            <td colspan="2">95</td>
+        </tr>
+    </table>
+
+
+</body>
+</html>
