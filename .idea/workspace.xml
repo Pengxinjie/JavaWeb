@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd0bae49-1be3-427b-8941-e95ab5809ac0" name="默认更改列表" comment=" HTML">
+      <change afterPath="$PROJECT_DIR$/src/HTML/表单标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_CSS/_css结合HTML方式1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_CSS/_css结合HTML方式2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_CSS/_css结合HTML方式3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_CSS/_基础选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_CSS/css/a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/实验1/项目3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/实验1/项目5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/实验1/项目6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HTML/表格标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/HTML/表格标签.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HTML/表单项.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/HTML/表单项.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +81,16 @@
       <workItem from="1599378864290" duration="6108000" />
       <workItem from="1599445326413" duration="5252000" />
       <workItem from="1599455101839" duration="3468000" />
+      <workItem from="1600089556097" duration="4674000" />
+      <workItem from="1600264424353" duration="11000" />
+      <workItem from="1600582027259" duration="1723000" />
+      <workItem from="1600686558774" duration="3361000" />
+      <workItem from="1600780807306" duration="16000" />
+      <workItem from="1600782981699" duration="1584000" />
+      <workItem from="1600838521094" duration="8000" />
+      <workItem from="1600873088880" duration="660000" />
+      <workItem from="1601086639063" duration="131000" />
+      <workItem from="1601106664202" duration="2571000" />
     </task>
     <task id="LOCAL-00001" summary=" HTML">
       <created>1599454681570</created>
@@ -80,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599454681570</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=" HTML表单">
+      <created>1600092937280</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600092937280</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,17 +114,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" HTML" />
-    <option name="LAST_COMMIT_MESSAGE" value=" HTML" />
+    <MESSAGE value=" HTML表单" />
+    <option name="LAST_COMMIT_MESSAGE" value=" HTML表单" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599378989474">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="96" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1599378989474" />
-    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1599455070232">
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1600092936141">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1599455070232" />
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1600092936141" />
     <state x="421" y="102" key="FileChooserDialogImpl" timestamp="1599454579497">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -111,13 +138,14 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="144" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1599455979400" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1599455008025">
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1599477816026">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1599455008025" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1599447690955">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1599477816026" />
+    <state x="455" y="62" width="1008" height="1017" key="search.everywhere.popup" timestamp="1601108732423">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1599447690955" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1600686911535" />
+    <state x="455" y="62" width="1008" height="1017" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601108732423" />
   </component>
 </project>
