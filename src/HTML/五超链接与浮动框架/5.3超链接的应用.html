@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>超链接的应用</title>
+    <style type="text/css">
+        h1{
+            background:#9999cc;color: white;
+            padding: 10px;height: 50px;text-align: center;
+        }
+        img{width: 70px;height: 45px}
+    </style>
+</head>
+<body>
+    <!--
+        创建HTTP文件下载超链接：如果浏览器不能识别或打开链接的文件，就会弹出下载框；下载框的链接指向文件所在的相对路径或绝对路径
+
+        创建FTP站点访问超链接(FTP协议)
+
+        创建图像链接：
+        - 单击链接图像时，可以打开超链接href所设置的URL
+        基本语法：
+        <a href="#"><img src="url" width="" height="" align="" border="" alt=""></a>
+
+        创建电子邮件超链接
+        基本语法：
+        - <a href="mailto:E-mail地址[?subject=邮件主题[&参数=参数值]]" >链接内容</a>
+
+    -->
+    <h1>超链接的应用</h1>
+    <h3><a href="ftp://ftp.sjtu.edu.cn">FTP文件下载</a></h3>
+    <h3>3.图像超链接
+        <a href="http://www.baidu.com"><img src="" border="0"></a>
+    </h3>
+
+    <h3>4.邮件超链接
+    <a href="mailto:someone@microsoft.com:xyz@163.com?cc=jlchu@163.com&bcc=12345678@qq.com&subject=hello%20again&body=下午">发送邮件</a>
+    </h3>
+
+</body>
+</html>
