@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DOM</title>
+
+</head>
+<body>
+
+    <img id="element1" src="图片/1.jpg">
+    <h1 id="element2">悔创阿里杰克马</h1>
+    <script>
+        //通过id获取元素对象
+        var element1 = document.getElementById("element1");//获取对象
+        alert(element1);
+
+        //操作Element对象
+        //1.修改属性值
+        alert("换图片");
+        element1.src = "图片/2.jpg";
+
+        //2.修改标签体的内容
+        var elementById = document.getElementById("element2");
+        alert(elementById);
+        elementById.innerHTML = "不识妻美刘强阿东";
+
+    </script>
+</body>
+</html>

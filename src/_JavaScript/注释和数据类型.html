@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>注释和数据类型</title>
+
+    <script>
+        //单行注释
+        /*
+       多行注释
+        */
+
+    </script>
+
+    <script>
+        /*
+        1.原始数据类型：
+            number：数字。整数、小数、NaN
+            string：字符串。单引号双引号都行，没有字符这个概念
+            Boolean：true、false
+            null：对象为空的占位符
+            undefined：未定义（未初始化）
+
+        2.引用数据类型
+
+         */
+
+    </script>
+
+
+    <script>
+        /*
+        * 变量
+        * JavaScript是弱类型语言，java是强类型语言
+        *
+        * 语法：
+        * var 变量名 = 初始化值；
+        * */
+        var a = 3;
+        alert(a);
+
+        a = "abc";
+
+        var num = 1;
+        var num2 = 1.1;
+        var num3 = NaN;
+
+        //输出到页面上
+        document.write(num+"<br>")
+        document.write(num2+"<br>")
+        document.write(num3+"<br>")
+
+        //运算符：typeof
+        document.write(num+"--"+typeof (num)+"<br>")
+        document.write(num2+"--"+typeof (num2)+"<br>")
+        document.write(num3+"--"+typeof (num3)+"<br>")
+
+    </script>
+
+    <script>
+        /*
+        * 运算符
+        * 逻辑运算符：
+        *   其他类型转boolean：
+        *       1.number：0或NaN为假，其他为真
+        *       2.string：除了空字符串，其他都是true
+        *       3.null&&undefined：防止空指针异常
+        *       4.对象
+        *
+        * 三元运算符：同java
+        *
+        * */
+    </script>
+
+    <script>
+        /**
+         * 一些特殊语法
+         * 1.分号可以不写，但不建议
+         * 2.变量的定义使用var关键字，也可不使用
+         *      使用：局部变量
+         *      不使用：全局变量（不建议使用）
+         */
+
+    </script>
+
+    <script>
+        /*
+        * 流程控制语句
+        * switch可以接收的类型：
+        *   java：byte，int，short，char，枚举，string
+        *   js：啥类型都行
+        * */
+        var a = 1;
+        switch (a) {
+            case 1:
+                alert("number");
+                break;
+        }
+    </script>
+
+    <style>
+        td{
+            border: 1px solid;
+        }
+    </style>
+
+    <script>
+        //小练习：实现99乘法表
+
+        document.write("<table align='center'>");
+        for (var i = 1; i <= 9; i++) {
+            document.write("<tr>");
+            for (var j = 1; j <= i; j++) {
+                document.write("<td>");
+                document.write(j+"X"+i+"="+(i*j)+"&emsp;");
+                document.write("</td>");
+            }
+            document.write("</tr>");
+        }
+
+        document.write("</table>")
+
+    </script>
+
+</head>
+<body>
+
+</body>
+</html>

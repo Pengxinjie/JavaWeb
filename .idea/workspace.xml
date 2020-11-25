@@ -1,12 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd0bae49-1be3-427b-8941-e95ab5809ac0" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HTML/五超链接与浮动框架/5.1超链接分类语法途径.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HTML/五超链接与浮动框架/5.3超链接的应用.html" afterDir="false" />
+    <list default="true" id="bd0bae49-1be3-427b-8941-e95ab5809ac0" name="默认更改列表" comment=" HTML">
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/01_讲义/DOM树.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/01_讲义/JavaScript高级笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/01_DOM_获取元素对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/02_事件绑定.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/03_案例1_电灯开关.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/04_Window对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/05_案例2_轮播图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/06_Location对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/07_案例3_自动跳转.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/08_History对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/09_History对象2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/10_Document对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/11_Element对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/12_Node对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/13_案例4_动态表格.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/14_HTMLDOM_innerHTML.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/15_HTMLDOM_控制样式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/16_常见事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/17_案例5_表格全选.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/18_案例6-表单验证.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/day09_javascript高级.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/img/banner_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/img/banner_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/img/banner_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/img/gou.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/img/off.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/img/on.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/img/register_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/02_代码/day30_javascript高级/img/verify_code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例1-电灯开关/img/off.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例1-电灯开关/img/on.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例1-电灯开关/案例1-电灯开关.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例2-轮播图/img/banner_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例2-轮播图/img/banner_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例2-轮播图/img/banner_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例2-轮播图/案例2_轮播图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例3-自动跳转首页/案例3_跳转首页.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例4-动态表格/html页面/动态表格html页面.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例4-动态表格/案例4_动态表格.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例5-表格全选/html页面/案例5_表格全选.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例5-表格全选/案例5_表格全选.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例6-表单验证/html页面/案例6-表单验证.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例6-表单验证/img/banner_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例6-表单验证/img/banner_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例6-表单验证/img/banner_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例6-表单验证/img/gou.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例6-表单验证/img/off.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例6-表单验证/img/on.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例6-表单验证/img/register_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例6-表单验证/img/verify_code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34.JavaScript高级/day30_JavaScript高级/03_参考/案例/案例6-表单验证/案例6-表单验证.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/3_案例1_注册页面(html).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/9_综合案例_网站首页.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/banner_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/banner_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/banner_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/footer_service.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/guonei_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/hot_tel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/hotel_tel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/icon_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/icon_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/icon_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/icon_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/icon_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/icon_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/icon_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/jiangwai_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/jiangxuan_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/jiangxuan_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/jiangxuan_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/jiangxuan_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/jiangxuan_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/jingxuan_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/top_banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/tv01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/tv02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/tv03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/tv04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/image/tv05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/img/login_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/img/login_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/img/regbtn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/img/register_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/img/verify_code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/七CSS基础/7_1_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/五超链接与浮动框架/综合实例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/六图像和多媒体文件/6_1_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/六图像和多媒体文件/6_1_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/六图像和多媒体文件/6_1_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/六图像和多媒体文件/6_2_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HTML/六图像和多媒体文件/6_2_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_CSS/CSS属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_CSS/基础选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_CSS/扩展选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_CSS/盒子模型.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_JavaScript/Array对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_JavaScript/DOM简单学习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_JavaScript/JS与html结合方式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_JavaScript/js/a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_JavaScript/js基本对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_JavaScript/math对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_JavaScript/图片/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_JavaScript/图片/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_JavaScript/图片/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_JavaScript/图片/文本标签练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_JavaScript/注释和数据类型.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/01_讲义/HTML&amp;CSS课堂笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/10_CSS属性_盒子模型.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/11_案例-注册页面(css).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/1_表单标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/2_表单标签_表单项标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/3_案例1_注册页面(html).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/4_css与html结合方式1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/5_css与html结合方式2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/6_css与html结合方式3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/7_基础选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/8_扩展选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/9_CSS属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/css/a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/css案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/day07_html&amp;css.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/img/login_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/img/login_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/img/regbtn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/img/register_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/02_代码/day07_html&amp;css/img/verify_code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/03_参考/案例/案例1_注册页面(html)/img/login_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/03_参考/案例/案例1_注册页面(html)/img/login_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/03_参考/案例/案例1_注册页面(html)/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/03_参考/案例/案例1_注册页面(html)/img/regbtn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/03_参考/案例/案例1_注册页面(html)/img/register_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/03_参考/案例/案例1_注册页面(html)/img/verify_code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/03_参考/案例/案例1_注册页面(html)/案例效果.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/03_参考/案例/案例2_注册页面(css)/img/login_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/03_参考/案例/案例2_注册页面(css)/img/login_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/03_参考/案例/案例2_注册页面(css)/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/03_参考/案例/案例2_注册页面(css)/img/regbtn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/03_参考/案例/案例2_注册页面(css)/img/register_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/03_参考/案例/案例2_注册页面(css)/img/verify_code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/03_参考/案例/案例2_注册页面(css)/table.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_HTML&amp;CSS/03_参考/案例/案例2_注册页面(css)/案例效果.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HTML/HelloWorld.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/HTML/HelloWorld.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/实验1/项目6.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/实验1/项目6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HTML/列表标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/HTML/列表标签.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_CSS/_基础选择器.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +176,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1h83ORIZmXwtBdsAnLTn9zyUh2m" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -40,14 +187,25 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\IdeaProjects\JavaWeb\src\HTML" />
+      <recent name="C:\Users\asus\IdeaProjects\JavaWeb\src\_CSS" />
+      <recent name="C:\Users\asus\IdeaProjects\JavaWeb\src\_CSS\css" />
       <recent name="C:\Users\asus\IdeaProjects\JavaWeb\src\图片" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\IdeaProjects\JavaWeb\src" />
+      <recent name="C:\Users\asus\IdeaProjects\JavaWeb\src\HTML" />
+      <recent name="C:\Users\asus\IdeaProjects\JavaWeb" />
+      <recent name="C:\Users\asus\IdeaProjects\JavaWeb\src\_JavaScript" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -90,7 +248,24 @@
       <workItem from="1601447017292" duration="83000" />
       <workItem from="1601686190978" duration="2057000" />
       <workItem from="1601792883982" duration="2000" />
-      <workItem from="1601994985065" duration="2531000" />
+      <workItem from="1601994985065" duration="5622000" />
+      <workItem from="1602047723374" duration="490000" />
+      <workItem from="1602077087669" duration="5971000" />
+      <workItem from="1602122798211" duration="166000" />
+      <workItem from="1602123176189" duration="5274000" />
+      <workItem from="1602329760660" duration="2075000" />
+      <workItem from="1602340181200" duration="66000" />
+      <workItem from="1603327078789" duration="7202000" />
+      <workItem from="1603550687969" duration="224000" />
+      <workItem from="1604297234259" duration="5182000" />
+      <workItem from="1604976665979" duration="7031000" />
+      <workItem from="1605101652748" duration="4008000" />
+      <workItem from="1605189384838" duration="20000" />
+      <workItem from="1605191535404" duration="15624000" />
+      <workItem from="1605613808729" duration="24725000" />
+      <workItem from="1605970167836" duration="600000" />
+      <workItem from="1606304336071" duration="528000" />
+      <workItem from="1606305081095" duration="1703000" />
     </task>
     <task id="LOCAL-00001" summary=" HTML">
       <created>1599454681570</created>
@@ -113,7 +288,35 @@
       <option name="project" value="LOCAL" />
       <updated>1601109272243</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" HTML">
+      <created>1601997746435</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601997746436</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" HTML">
+      <created>1601997772102</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601997772102</updated>
+    </task>
+    <task id="LOCAL-00006" summary=" HTML">
+      <created>1601998787334</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601998787334</updated>
+    </task>
+    <task id="LOCAL-00007" summary=" HTML">
+      <created>1605254787534</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605254787534</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,15 +332,21 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="96" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1599378989474" />
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1601997745261">
+    <state x="796" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602123522069">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="796" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1602123522069" />
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1605254808573">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1600092936141" />
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1601997745261" />
-    <state x="421" y="102" key="FileChooserDialogImpl" timestamp="1599454579497">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1601998791600" />
+    <state x="395" y="0" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605254808573" />
+    <state x="632" y="153" key="FileChooserDialogImpl" timestamp="1605686544758">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="421" y="102" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1599454579497" />
+    <state x="632" y="153" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605686544758" />
     <state x="515" y="252" width="269" height="290" key="Github.ShareDialog" timestamp="1599456109589">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -147,15 +356,28 @@
     </state>
     <state x="216" y="9" key="SettingsEditor/-1920.0.1280.720/0.0.1920.1080/-3286.88.911.683@0.0.1920.1080" timestamp="1601447097970" />
     <state x="144" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1599455979400" />
+    <state x="681" y="280" width="540" height="524" key="StructurePopup" timestamp="1604977955810">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="681" y="280" width="540" height="524" key="StructurePopup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604977955810" />
     <state x="350" y="141" key="Vcs.Push.Dialog.v2" timestamp="1601109279498">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1599477816026" />
     <state x="350" y="141" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1601109279498" />
-    <state x="455" y="62" width="1008" height="1017" key="search.everywhere.popup" timestamp="1601997377370">
+    <state x="597" y="200" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605270954244">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="597" y="200" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605270954244" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1603335326354">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1603335326354" />
+    <state x="455" y="62" width="1008" height="1017" key="search.everywhere.popup" timestamp="1605664582153">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1600686911535" />
-    <state x="455" y="62" width="1008" height="1017" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601997377370" />
+    <state x="455" y="62" width="1008" height="1017" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1604300086164" />
+    <state x="455" y="62" width="1008" height="1017" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605664582153" />
   </component>
 </project>

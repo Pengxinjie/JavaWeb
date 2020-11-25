@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>扩展选择器</title>
+    <style>
+        div p{
+            color: red;
+        }
+
+        div>p{
+            border: 1px solid;
+        }
+
+        input[type='text']{
+            border: 5px solid;
+        }
+
+        a:link{
+            color: pink;
+        }
+
+        a:hover{
+            color: red;
+        }
+
+        a:active{
+            color: brown;
+        }
+
+        a:visited{
+            color: green;
+        }
+
+    </style>
+</head>
+<body>
+    <div>
+        <p>巴塞罗那--子选择器与父选择器</p>
+    </div>
+    <p>梅西</p>
+
+    <div>
+        皇马
+    </div>
+    <hr color="red" width="2">
+
+    <input type="text">属性选择器</br>
+    <!--
+    伪类选择器：
+    如：<a>
+        状态：
+            link:初始化状态
+            visited:被访问过的状态
+            active：正在访问状态
+            hover：鼠标悬浮状态
+    -->
+    <hr>
+
+    <a href="#">百度</a>
+
+</body>
+</html>
